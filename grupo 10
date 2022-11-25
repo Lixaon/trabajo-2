@@ -1,7 +1,13 @@
-<!HTML doctype>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre el cine</title>
 </head>
 <body>
-</body>
+    <p>Cuando hablamos de cine nos referimos, al mismo tiempo, a una técnica, una industria y a una forma de arte, cuyo rasgo central es la capacidad de recrear la ilusión del movimiento a partir de la captura y exhibición de fotogramas continuas a una velocidad mayor a la que el ojo puede detectar.</p>
+    <p></p>
+</body> 
 </html>
