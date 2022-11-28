@@ -1,13 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sobre el cine</title>
 </head>
+
 <body>
-    <p>Cuando hablamos de cine nos referimos, al mismo tiempo, a una técnica, una industria y a una forma de arte, cuyo rasgo central es la capacidad de recrear la ilusión del movimiento a partir de la captura y exhibición de fotogramas continuas a una velocidad mayor a la que el ojo puede detectar.</p>
-    <p></p>
-</body> 
+    <h1>El Cine</h1>
+    <dl>
+        <dt>Concepto de Cine</dt>
+        <dd>Cuando hablamos de cine nos referimos, al mismo tiempo, a una técnica, una industria y a una forma de arte,
+            cuyo rasgo central es la capacidad de recrear la ilusión del movimiento a partir de la captura y exhibición
+            de fotogramas continuas a una velocidad mayor a la que el ojo puede detectar.</dd>
+        <dt>Origen del Cine</dt>
+        <dd>El origen del cine se remonta a fines del siglo XIX, cuando se creó el cinematógrafo, o sea, la máquina
+            capaz de grabar y reproducir imágenes para crear la sensación del movimiento. Hubo muchos antecedentes a
+            esta invención, que iba de la mano de los primeros pasos formales en la técnica de la fotografía.</dd>
+    </dl>
+    <h2>Géneros</h2>
+    <p>El cine es un género artístico narrativo, es decir, que cuenta historias. En ese sentido, sus producciones
+        responden a las clasificaciones tradicionales del teatro y las artes escénicas, o a menudo la literatura,
+        distinguiendo así entre comedias, dramas, tragicomedias, etcétera.</p>
+    <ol>
+        <li>Cine Comercial</li>
+        <li>Cine Independiente</li>
+        <li>Cine de Autor</li>
+        <li>Cine Animado</li>
+        <li>Cine Documental</li>
+        <li>Cine Docu-Ficción</li>
+        <li>Cine Experimental</li>
+        <li>Cine Ambiental</li>
+    </ol>
+    <h2>Elementos del Cine</h2>
+    <ul>
+        <li>Guión</li>
+        <li>Casting</li>
+        <li>Rodaje</li>
+        <li>Montaje y Edición</li>
+        <li>Post-producción</li>
+        <li>Distribución</li>
+    </ul>
+</body>
+
 </html>
