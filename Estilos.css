@@ -1,21 +1,22 @@
-background{color: darkred;}
+body{
+    background-color: burlywood;}
 h1 {
     text-align: center
 }
 dl {
-    text-align: center;
+    text-align: left;
 }
 h2 {
-    text-align: center;
+    text-align: left;
 }
 ol {
-    text-align: center;
+    text-align: left;
 }
 p {
-    text-align: center;
+    text-align: left;
 }
 ul {
-    text-align: center;
+    text-align: left;
 }
 a:hover{
     font-size: 50px;
