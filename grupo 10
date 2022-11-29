@@ -5,17 +5,22 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="United-1.css"
     <title>Sobre el cine</title>
 </head>
 
 <body>
     <h1>El Cine</h1>
     <dl>
-        <dt>Concepto de Cine</dt>
+        <h2>
+            <dt>Concepto de Cine</dt>
+        </h2>
         <dd>Cuando hablamos de cine nos referimos, al mismo tiempo, a una técnica, una industria y a una forma de arte,
             cuyo rasgo central es la capacidad de recrear la ilusión del movimiento a partir de la captura y exhibición
             de fotogramas continuas a una velocidad mayor a la que el ojo puede detectar.</dd>
-        <dt>Origen del Cine</dt>
+        <h2>
+            <dt>Origen del Cine</dt>
+        </h2>
         <dd>El origen del cine se remonta a fines del siglo XIX, cuando se creó el cinematógrafo, o sea, la máquina
             capaz de grabar y reproducir imágenes para crear la sensación del movimiento. Hubo muchos antecedentes a
             esta invención, que iba de la mano de los primeros pasos formales en la técnica de la fotografía.</dd>
