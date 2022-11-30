@@ -1,24 +1,45 @@
 body{
     background-color: burlywood;
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, serif;
 }
+
 h1 {
     text-align: center;
 }
+
 dl {
     text-align: left;
 }
+
 h2 {
     text-align: left;
 }
+
 ol {
     text-align: left;
 }
+
 p {
     text-align: left;
 }
+
 ul {
     text-align: left;
 }
-a:hover{
+
+a:hover {
     font-size: 25px;
+}
+
+a:visited {
+    color: rgb(108, 100, 140);
+}
+
+a:link {
+    color: rgb(27, 158, 194);
+}
+
+a:active {
+    color: rgb(130, 8, 16);
 }
