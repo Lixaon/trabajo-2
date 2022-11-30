@@ -2,7 +2,7 @@ body{
     background-color: burlywood;
 }
 h1 {
-    text-align: center
+    text-align: center;
 }
 dl {
     text-align: left;
@@ -20,5 +20,5 @@ ul {
     text-align: left;
 }
 a:hover{
-    font-size: 50px;
+    font-size: 25px;
 }
